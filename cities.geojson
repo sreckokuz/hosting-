@@ -1,0 +1,95 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Novi Sad",
+        "ID": 2,
+        "image": "novi_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.9237060546875,
+          45.24008561090264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Beograd",
+        "ID": 3,
+        "image": "beo_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.445556640625,
+          44.85197466334984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cacak",
+        "ID": 4,
+        "image": "ca_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.3741455078125,
+          43.91768033000405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kragujevac",
+        "ID": 5,
+        "image": "kg_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.9783935546875,
+          44.036269809534616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nis",
+        "ID": 6,
+        "image": "nis_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.9287109375,
+          43.34116005412307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Subotica",
+        "ID": 1,
+        "image": "su_image"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.75341796875,
+          46.00840867976967
+        ]
+      }
+    }
+  ]
+}
