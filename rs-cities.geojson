@@ -1,0 +1,80 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Prijedor",
+        "id": 1,
+        "location": "North-west of RS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.711578369140625,
+          44.981799457076946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bijeljina",
+        "id": 3,
+        "location": "North-right of RS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.212684631347656,
+          44.76331174958473
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Doboj",
+        "id": 2,
+        "location": "Center of RS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.094482421875,
+          44.742831723317565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rudo",
+        "id": 4,
+        "location": "East of RS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.44854736328125,
+          43.62762639320158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Trebinje",
+        "id": 5,
+        "location": "South of RS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.342361450195312,
+          42.71321864876737
+        ]
+      }
+    }
+  ]
+}
